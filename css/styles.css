@@ -214,7 +214,11 @@ footer a:hover {
     margin: 0;
 }
 
-
+/* Technical Skills
+............................*/
+.technical-item{
+  margin:30px 0;
+}
 
 /* FOOTER
 ------------------------------------*/
